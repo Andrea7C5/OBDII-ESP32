@@ -1,12 +1,14 @@
 # OBDII-ESP32
 Ho utilizzato l'ESP32 Wrover per fare queste prove in quanto non è possibile utilizzare gli ESP32-s2 (ad esempio) perchè avendo il BLE non è possibile utilizzare le librerie BluetoothSerial. Il mio intento è quello di leggere i dati trasmessi all'esp32 tramite bluetooth dal flipper zero o comunque qualsiasi altro dispositivo. E' possibile utilizzare anche le interfacce ELM327 che hanno la connessione usb invece del bluetooth collegandosi direttamente all'rx e tx prima del convertirore Seriale->USB, le mie prime prove erano infatti su quello, ma il fatto di avere i fili collegato lo rendeva scomodo, comunque pubblicherò anche quello appena lo ritrovo. 
 
-![IMG_4677](https://github.com/user-attachments/assets/95fdf65f-c011-41e6-bad6-16fda673e8c2)
+![IMG_4677](https://github.com/user-attachments/assets/c0e82c6e-0f28-40c1-9a24-8acbdd7a0379)
+
 
 # ELM327
 Come interfaccia ELM327 ho utilizzato quelle che si trovano anche su amazon.
 
-![7187RPpHBhL _AC_UF1000,1000_QL80_](https://github.com/user-attachments/assets/78265b1c-b756-4a81-adf8-937183c239ce)
+![7187RPpHBhL _AC_UF1000,1000_QL80_](https://github.com/user-attachments/assets/a3492983-4c26-4c9f-afd5-2b52afbf2691)
+
 
 
 
